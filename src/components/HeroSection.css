@@ -95,9 +95,12 @@
         .home_hero-text-wrapper {
           padding-bottom: 65px;
         }
-        .row{
-            flex-basis: 1/4;
+      
+        .col {
+          max-width: 100%;
+     
         }
-       
-        
+        .row{
+            flex-direction: column !important;
+        }
       }

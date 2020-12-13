@@ -146,8 +146,9 @@
       width: 100%;
     }
   
-    .btn {
-      width: 100%;
+    .input-areas .btn--outline{
+    margin: 0 20px;
+    width: 100%;
     }
   
     .footer-link-wrapper {
