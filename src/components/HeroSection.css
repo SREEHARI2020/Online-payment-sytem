@@ -102,5 +102,6 @@
         }
         .row{
             flex-direction: column !important;
+            width: 100%;
         }
       }
